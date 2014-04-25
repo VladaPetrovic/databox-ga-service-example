@@ -1,4 +1,4 @@
-GoogleAnalytics service integration for Databox
-===============================================
+GoogleAnalytics service integration
+===================================
 
 
