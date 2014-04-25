@@ -1,4 +1,4 @@
-databox-ga-service-example
-==========================
+GoogleAnalytics service integration for Databox
+===============================================
 
-Databox GoogleAnalytics service integrations - PHP
+
